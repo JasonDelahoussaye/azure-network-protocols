@@ -6,9 +6,11 @@
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 
-<h2>Video Demonstration</h2>
+<h2>Video Demonstrations</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+- ### [Part 1 Creating Resources ](https://drive.google.com/file/d/1E2r7p36KoIr70pZPS-fD8MEyo3kbjfBy/view?usp=drive_link)
+- ### [Part 2 Performing Activities On Network ]([https://www.youtube.com](https://drive.google.com/file/d/1BgTzv7A4A8rxeo7JCGud_ki_V7cRZE6o/view?usp=drive_link))
+
 
 <h2>Environments and Technologies Used</h2>
 
