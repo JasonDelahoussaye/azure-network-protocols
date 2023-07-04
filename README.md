@@ -110,6 +110,6 @@ Lastly, I utilized Wireshark to monitor RDP (Remote Desktop Protocol) traffic. S
 </p>
 <br />
 <p>
-✨ And that's a wrap! This lab introduced me to the fascinating world of Wireshark. I highly recommend anyone new to IT to give it a try - capturing and analyzing packets is truly an eye-opening experience!
+And that's a wrap! This lab introduced me to the fascinating world of Wireshark. I highly recommend anyone new to IT to give it a try - capturing and analyzing packets is truly an eye-opening experience!
 </p>
 <br />
